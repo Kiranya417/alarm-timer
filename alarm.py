@@ -1,2 +1,2 @@
 from playsound import playsound
-playsound("/Users/kiran/Downloads/iphone_alarm.mp3")
+playsound("/Users/kiran/Downloads/alarm-timer-main/iphone_alarm.mp3")
